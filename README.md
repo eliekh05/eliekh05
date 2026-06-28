@@ -3,20 +3,26 @@
 <h3 align="center">check out https://linktr.ee/eliekh05</h3>
 
 <p align="center">
-[![Twitter](https://img.shields.io/twitter/follow/eliekh05?style=social)](https://twitter.com/eliekh05) [![GitHub followers](https://img.shields.io/github/followers/eliekh05?style=social)](https://github.com/eliekh05)
+
+  [![Twitter](https://img.shields.io/twitter/follow/eliekh05?style=social)](https://twitter.com/eliekh05) [![GitHub followers](https://img.shields.io/github/followers/eliekh05?style=social)](https://github.com/eliekh05)
 </p>
 
 <p align="center">
-![Profile views](https://komarev.com/ghpvc/?username=eliekh05&color=blueviolet) ![Stars](https://img.shields.io/badge/Total%20Stars-14-yellow) ![Repos](https://img.shields.io/badge/Public%20Repos-65-blue) ![Followers](https://img.shields.io/badge/Followers-12-green)
+
+  ![Profile views](https://komarev.com/ghpvc/?username=eliekh05&color=blueviolet) ![Stars](https://img.shields.io/badge/Total%20Stars-14-yellow) ![Repos](https://img.shields.io/badge/Public%20Repos-65-blue) ![Followers](https://img.shields.io/badge/Followers-12-green)
 </p>
 
-<p align="center">📍 **Lebanon Beirut ** &nbsp;·&nbsp; 🚀 On GitHub since **2020** &nbsp;·&nbsp; 🌐 [Website](https://linktr.ee/eliekh05)</p>
+<p align="center">
+  📍 <strong>Lebanon Beirut</strong> &nbsp;·&nbsp;
+  🚀 On GitHub since <strong>2020</strong> &nbsp;·&nbsp;
+  🌐 <a href="https://linktr.ee/eliekh05">Website</a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📍 Based in **Lebanon Beirut **
+- 📍 Based in **Lebanon Beirut**
 - 📦 **65** public repositories
 - ⭐ **14** total stars earned
 - 🍴 **3** total forks
@@ -90,7 +96,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eliekh05&theme=darkhub&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=eliekh05&theme=one+dark&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 
