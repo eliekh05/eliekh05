@@ -3,11 +3,11 @@
 <h3 align="center">check out https://linktr.ee/eliekh05</h3>
 
 <p align="center">
-  <a href="https://twitter.com/eliekh05"><img src="https://img.shields.io/twitter/follow/eliekh05?style=social" alt="Twitter"></a> <a href="https://github.com/eliekh05"><img src="https://img.shields.io/github/followers/eliekh05?style=social" alt="GitHub followers"></a>
+<a href="https://twitter.com/eliekh05"><img src="https://img.shields.io/twitter/follow/eliekh05?style=social" alt="Twitter"></a> <a href="https://github.com/eliekh05"><img src="https://img.shields.io/github/followers/eliekh05?style=social" alt="GitHub followers"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eliekh05&color=blueviolet" alt="Profile views"> <img src="https://img.shields.io/badge/Total%20Stars-16-yellow" alt="Stars"> <img src="https://img.shields.io/badge/Public%20Repos-67-blue" alt="Repos"> <img src="https://img.shields.io/badge/Followers-12-green" alt="Followers">
+<img src="https://komarev.com/ghpvc/?username=eliekh05&color=blueviolet" alt="Profile views"> <img src="https://img.shields.io/badge/Total%20Stars-16-yellow" alt="Stars"> <img src="https://img.shields.io/badge/Public%20Repos-67-blue" alt="Repos"> <img src="https://img.shields.io/badge/Followers-12-green" alt="Followers">
 </p>
 
 <p align="center">
