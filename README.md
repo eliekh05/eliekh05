@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=$(username)&theme=darkhub&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=eliekh05&theme=darkhub&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
