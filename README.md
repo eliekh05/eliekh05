@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=eliekh05&color=blueviolet" alt="Profile views"/> <img src="https://img.shields.io/badge/Total%20Stars-18-yellow" alt="Stars"/> <img src="https://img.shields.io/badge/Public%20Repos-67-blue" alt="Repos"/> <img src="https://img.shields.io/badge/Followers-12-green" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=eliekh05&color=blueviolet" alt="Profile views"/> <img src="https://img.shields.io/badge/Total%20Stars-18-yellow" alt="Stars"/> <img src="https://img.shields.io/badge/Public%20Repos-68-blue" alt="Repos"/> <img src="https://img.shields.io/badge/Followers-12-green" alt="Followers"/>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 📍 Based in **Lebanon Beirut**
-- 📦 **67** public repositories
+- 📦 **68** public repositories
 - ⭐ **18** total stars earned
 - 👥 **12** followers · **37** following
 - 🐳 Uses **Docker** for containerization
@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eliekh05&theme=darkhub&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=$(username)&theme=darkhub&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
