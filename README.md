@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=eliekh05&theme=darkhub&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=eliekh05&theme=darkhub&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -84,12 +84,12 @@
 ## 🔥 Top Repositories
 
 <p align="left">
-  <a href="https://github.com/eliekh05/Droidify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eliekh05&repo=Droidify&theme=dark" /></a>
-  <a href="https://github.com/eliekh05/chat-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eliekh05&repo=chat-system&theme=dark" /></a>
-  <a href="https://github.com/eliekh05/GHunt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eliekh05&repo=GHunt&theme=dark" /></a>
-  <a href="https://github.com/eliekh05/gh-profile-gen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eliekh05&repo=gh-profile-gen&theme=dark" /></a>
-  <a href="https://github.com/eliekh05/unidev-toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eliekh05&repo=unidev-toolkit&theme=dark" /></a>
-  <a href="https://github.com/eliekh05/cicd-auditor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eliekh05&repo=cicd-auditor&theme=dark" /></a>
+  <a href="https://github.com/eliekh05/Droidify"><img src="https://github-readme-stats.shion.dev/api/pin/?username=eliekh05&repo=Droidify&theme=dark" /></a>
+  <a href="https://github.com/eliekh05/chat-system"><img src="https://github-readme-stats.shion.dev/api/pin/?username=eliekh05&repo=chat-system&theme=dark" /></a>
+  <a href="https://github.com/eliekh05/GHunt"><img src="https://github-readme-stats.shion.dev/api/pin/?username=eliekh05&repo=GHunt&theme=dark" /></a>
+  <a href="https://github.com/eliekh05/gh-profile-gen"><img src="https://github-readme-stats.shion.dev/api/pin/?username=eliekh05&repo=gh-profile-gen&theme=dark" /></a>
+  <a href="https://github.com/eliekh05/unidev-toolkit"><img src="https://github-readme-stats.shion.dev/api/pin/?username=eliekh05&repo=unidev-toolkit&theme=dark" /></a>
+  <a href="https://github.com/eliekh05/cicd-auditor"><img src="https://github-readme-stats.shion.dev/api/pin/?username=eliekh05&repo=cicd-auditor&theme=dark" /></a>
 </p>
 
 ---
